@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.ibb.co/9hJ1Wkk/kithub-logo-text-orange.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://s7.gifyu.com/images/animation_500_kchwr3ox.gif" alt="Project logo"></a>
 </p>
 
 <h3 align="center">KitHub</h3>
@@ -24,6 +24,11 @@
 - [Deployment](#deployment)
 - [Built Using](#built_using)
 - [Acknowledgments](#acknowledgement)
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=3498px height=310px src="https://i.ibb.co/RBpFMhj/ISIM-1.jpg" alt="Project logo"></a>
+</p>
 
 ## 🧐 About <a name = "about"></a>
 KitHub is a mobile e-commerce app for selling books on Android platform. With its user-friendly interface, it aims at a quick shopping experience. On the administrative side of the application, you can access and edit many data such as books, users, orders with fast and simple operations.
